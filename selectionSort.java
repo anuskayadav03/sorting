@@ -1,6 +1,6 @@
 public class selectionSort {
     public static void main(String[] args) {
-        int[] arr={90,3,20,5,60};
+        int[] arr={90,3,20,5,60,9};
         int n=arr.length;
         for(int i=0;i<n-1;i++){
             int min=i;
